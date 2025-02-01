@@ -12,7 +12,7 @@ My journey in technology has driven me to pursue a focused career in cybersecuri
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SQL          | <a href="https://github.com/MJeyhun/Apply-filters-to-SQL-queries">Apply filters to SQL queries</a>|
+| SQL filtering       | <a href="https://github.com/MJeyhun/Apply-filters-to-SQL-queries">Apply filters to SQL queries</a>|
 
 
 
