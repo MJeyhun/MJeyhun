@@ -18,14 +18,10 @@ My journey in technology has driven me to pursue a focused career in cybersecuri
 
 ## Tools
 
+
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
 ### SIEM
@@ -33,10 +29,31 @@ My journey in technology has driven me to pursue a focused career in cybersecuri
     <img src="https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000" />
 </div>
 
-## Certifications
+## Programing Languages and Web Development technologies
 <div>
-    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" />
 </div>
+<div>
+    <img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square" />
+</div>
+<div>
+    <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" />
+</div>
+<div>
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
+</div>
+<div>
+    <img src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white" />
+</div>
+<div>
+    <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" />
+</div>
+<div>
+    <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff" />
+</div>
+
+## Certifications
+
 
 ## Projects
 - Apply filters to SQL queries
