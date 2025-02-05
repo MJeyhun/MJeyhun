@@ -1,4 +1,4 @@
-# Hello, I'm Jeyhun (Note: This is still template)
+# Hello, I'm Jeyhun
 <a href="www.linkedin.com/in/jeyhun-mustafayev-b6584b279"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a second year Cyber Security Engineering student at Tallinn University of Technology. 
