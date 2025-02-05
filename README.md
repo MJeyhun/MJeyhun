@@ -12,10 +12,13 @@ I'm passionate about technology and have a strong interest in both cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SQL       | <a href="https://github.com/MJeyhun/Apply-filters-to-SQL-queries">Apply filters to SQL queries</a>|
+| C++       | <a href="https://github.com/MJeyhun/C_Tasks">C_Tasks</a>|
+| Javascript, HTML, CSS, PHP       | <a href="https://github.com/MJeyhun/Simple_Blog">Simple_Blog</a>|
+| C#       | <a href="https://github.com/MJeyhun/Furbar_Backend">Furbar_Backend</a>|
+| C#       | <a href="https://github.com/MJeyhun/CSharp_Projects">CSharp_Projects</a>|
+| Ansible, Docker, MySQL, Prometheus, Grafana, HAProxy, KeepAlived ,InfluxDB, Nginx, Uwsgi, Bind9      | <a href="https://github.com/MJeyhun/ica0002-2024">ica0002-2024</a>|
 
 
-
-## Tools
 
 
 ### Network
@@ -56,3 +59,9 @@ I'm passionate about technology and have a strong interest in both cybersecurity
 
 ## Projects
 - Apply filters to SQL queries
+- C_Tasks
+- Simple_Blog
+- Furbar_Backend
+- CSharp_Projects
+- ica0002-2024
+
