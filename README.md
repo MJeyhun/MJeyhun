@@ -5,7 +5,7 @@ I am a second year Cyber Security Engineering student at Tallinn University of T
 
 ## Objective
 
-My journey in technology has driven me to pursue a focused career in cybersecurity, where I am determined to apply my skills and knowledge to protect systems and data. I am eager to begin this journey by joining a Security Operations Center (SOC) as a Tier 1 Analyst, contributing to monitoring and defending against potential threats while continuing to grow in this dynamic field.
+I'm passionate about technology and have a strong interest in both cybersecurity and software engineering. I’m excited to kickstart my career by joining a Security Operations Center (SOC) as a Tier 1 Analyst, where I can help monitor and defend against threats while also using my software engineering skills to improve tools and processes. I’m eager to learn, grow, and make an impact in these fast-paced, ever-evolving fields.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
